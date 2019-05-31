@@ -41,6 +41,7 @@ defmodule Yapz.Mixfile do
       {:cowboy, "~> 1.0"},
       {:plug_cowboy, "~> 1.0"},
       {:comeonin, "~> 2.5"},
+      {:guardian, "~> 1.2.0"},
     ]
   end
 
